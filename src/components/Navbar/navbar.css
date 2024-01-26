@@ -19,6 +19,12 @@
 .desktopMenuListItem {
   margin: 2rem;
   cursor: pointer;
+  color: #ff3ce2;
+}
+.desktopMenuListItem:hover {
+  color: white;
+  padding-bottom: 0.5rem;
+  border-bottom: 5px solid #ff3ce2;
 }
 .desktopMenuBtn {
   background: white;
