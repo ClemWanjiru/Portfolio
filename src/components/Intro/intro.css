@@ -49,5 +49,8 @@
   border-radius: 2rem;
   font-weight: 700;
 }
-
-
+@media screen and (max-width: 480px) {
+  .bg {
+    right: -20vw;
+  }
+}
